@@ -1,0 +1,110 @@
+[
+    {
+        "id":1, 
+        "name":"Marcedes Banz G",
+        "img":"https://i.ibb.co/4W50XkW/car5.jpg",
+        "overview": "The company continued to work at its regular pace. In 1972, the P250 Urraco, the 400 GT Jarama, the 400 GT Espada and the P400 Miura SV were in full production. That year, in an attempt to improve sales that were frankly quite disappointing until then, the Jarama hand a 365-hp engine and was dubbed the Jarama S. In 1972, the Urraco, which had experienced several initial slowdowns, was finally put into production. Almost inevitably, the S version also arrived in October of that year. In this case, the goal was not to enhance the car’s performance but to improve its overall quality, which had been neglected in the haste to start production. The production model of the Countach was codenamed LP 400 because its V12 – positioned longitudinally behind the cockpit – was increased to an ideal displacement of 4 litres (3929 cc). This model debuted at the 1973 Geneva Motor Show.",
+        "review":4.5,
+        "price":1002,
+        "client":25
+    },
+    {
+        "id":2, 
+        "name":"BMW-x6-facelift",
+        "img":"https://i.ibb.co/BcLhCtc/car8.jpg",
+        "overview": "The company continued to work at its regular pace. In 1972, the P250 Urraco, the 400 GT Jarama, the 400 GT Espada and the P400 Miura SV were in full production. That year, in an attempt to improve sales that were frankly quite disappointing until then, the Jarama hand a 365-hp engine and was dubbed the Jarama S. In 1972, the Urraco, which had experienced several initial slowdowns, was finally put into production. Almost inevitably, the S version also arrived in October of that year. In this case, the goal was not to enhance the car’s performance but to improve its overall quality, which had been neglected in the haste to start production. The production model of the Countach was codenamed LP 400 because its V12 – positioned longitudinally behind the cockpit – was increased to an ideal displacement of 4 litres (3929 cc). This model debuted at the 1973 Geneva Motor Show.",
+        "review":4.3,
+        "price":1202,
+        "client":28
+    },
+    {
+        "id":3, 
+        "name":"Honda-Clarity 2019",
+        "img":"https://i.ibb.co/PW5TSG4/car3.jpg",
+        "overview": "The company continued to work at its regular pace. In 1972, the P250 Urraco, the 400 GT Jarama, the 400 GT Espada and the P400 Miura SV were in full production. That year, in an attempt to improve sales that were frankly quite disappointing until then, the Jarama hand a 365-hp engine and was dubbed the Jarama S. In 1972, the Urraco, which had experienced several initial slowdowns, was finally put into production. Almost inevitably, the S version also arrived in October of that year. In this case, the goal was not to enhance the car’s performance but to improve its overall quality, which had been neglected in the haste to start production. The production model of the Countach was codenamed LP 400 because its V12 – positioned longitudinally behind the cockpit – was increased to an ideal displacement of 4 litres (3929 cc). This model debuted at the 1973 Geneva Motor Show.",
+        "review":4.1,
+        "price":1200,
+        "client":35
+    },
+    {
+        "id":4, 
+        "name":"2019 BMW M6 Gran Coupe",
+        "img":"https://i.ibb.co/wwLpTBy/car6.jpg",
+        "overview": "The company continued to work at its regular pace. In 1972, the P250 Urraco, the 400 GT Jarama, the 400 GT Espada and the P400 Miura SV were in full production. That year, in an attempt to improve sales that were frankly quite disappointing until then, the Jarama hand a 365-hp engine and was dubbed the Jarama S. In 1972, the Urraco, which had experienced several initial slowdowns, was finally put into production. Almost inevitably, the S version also arrived in October of that year. In this case, the goal was not to enhance the car’s performance but to improve its overall quality, which had been neglected in the haste to start production. The production model of the Countach was codenamed LP 400 because its V12 – positioned longitudinally behind the cockpit – was increased to an ideal displacement of 4 litres (3929 cc). This model debuted at the 1973 Geneva Motor Show.",
+        "review":4.5,
+        "price":1002,
+        "client":25
+    },
+    {
+        "id":5, 
+        "name":"2019 Audi S3",
+        "img":"https://i.ibb.co/yP7nH0q/Generic-modern-SUV-car-in-concrete-garage-Car-design-is-generic-and-not-based-on-any-real-model-or-b.jpg",
+        "overview": "The company continued to work at its regular pace. In 1972, the P250 Urraco, the 400 GT Jarama, the 400 GT Espada and the P400 Miura SV were in full production. That year, in an attempt to improve sales that were frankly quite disappointing until then, the Jarama hand a 365-hp engine and was dubbed the Jarama S. In 1972, the Urraco, which had experienced several initial slowdowns, was finally put into production. Almost inevitably, the S version also arrived in October of that year. In this case, the goal was not to enhance the car’s performance but to improve its overall quality, which had been neglected in the haste to start production. The production model of the Countach was codenamed LP 400 because its V12 – positioned longitudinally behind the cockpit – was increased to an ideal displacement of 4 litres (3929 cc). This model debuted at the 1973 Geneva Motor Show.",
+        "review":4.5,
+        "price":1002,
+        "client":40
+    },
+    {
+        "id":6, 
+        "name":"Lamborghini",
+        "img":"https://i.ibb.co/yXRgZSG/car1.jpg",
+        "overview": "The company continued to work at its regular pace. In 1972, the P250 Urraco, the 400 GT Jarama, the 400 GT Espada and the P400 Miura SV were in full production. That year, in an attempt to improve sales that were frankly quite disappointing until then, the Jarama hand a 365-hp engine and was dubbed the Jarama S. In 1972, the Urraco, which had experienced several initial slowdowns, was finally put into production. Almost inevitably, the S version also arrived in October of that year. In this case, the goal was not to enhance the car’s performance but to improve its overall quality, which had been neglected in the haste to start production. The production model of the Countach was codenamed LP 400 because its V12 – positioned longitudinally behind the cockpit – was increased to an ideal displacement of 4 litres (3929 cc). This model debuted at the 1973 Geneva Motor Show.",
+        "review":4.5,
+        "price":1520,
+        "client":25
+    },
+    {
+        "id":7, 
+        "name":"Marcedes Banz G",
+        "img":"https://i.ibb.co/N1rkC64/car12.jpg",
+        "overview": "The company continued to work at its regular pace. In 1972, the P250 Urraco, the 400 GT Jarama, the 400 GT Espada and the P400 Miura SV were in full production. That year, in an attempt to improve sales that were frankly quite disappointing until then, the Jarama hand a 365-hp engine and was dubbed the Jarama S. In 1972, the Urraco, which had experienced several initial slowdowns, was finally put into production. Almost inevitably, the S version also arrived in October of that year. In this case, the goal was not to enhance the car’s performance but to improve its overall quality, which had been neglected in the haste to start production. The production model of the Countach was codenamed LP 400 because its V12 – positioned longitudinally behind the cockpit – was increased to an ideal displacement of 4 litres (3929 cc). This model debuted at the 1973 Geneva Motor Show.",
+        "review":4.5,
+        "price":1400,
+        "client":35
+    },
+    {
+        "id":8, 
+        "name":"Mercedes Benz",
+        "img":"https://i.ibb.co/mbmHx4m/car11.jpg",
+        "overview": "The company continued to work at its regular pace. In 1972, the P250 Urraco, the 400 GT Jarama, the 400 GT Espada and the P400 Miura SV were in full production. That year, in an attempt to improve sales that were frankly quite disappointing until then, the Jarama hand a 365-hp engine and was dubbed the Jarama S. In 1972, the Urraco, which had experienced several initial slowdowns, was finally put into production. Almost inevitably, the S version also arrived in October of that year. In this case, the goal was not to enhance the car’s performance but to improve its overall quality, which had been neglected in the haste to start production. The production model of the Countach was codenamed LP 400 because its V12 – positioned longitudinally behind the cockpit – was increased to an ideal displacement of 4 litres (3929 cc). This model debuted at the 1973 Geneva Motor Show.",
+        "review":4.5,
+        "price":800,
+        "client":50
+    },
+    {
+        "id":9, 
+        "name":"Nissan GT R",
+        "img":"https://i.ibb.co/QkTJpX6/car10.jpg",
+        "overview": "The company continued to work at its regular pace. In 1972, the P250 Urraco, the 400 GT Jarama, the 400 GT Espada and the P400 Miura SV were in full production. That year, in an attempt to improve sales that were frankly quite disappointing until then, the Jarama hand a 365-hp engine and was dubbed the Jarama S. In 1972, the Urraco, which had experienced several initial slowdowns, was finally put into production. Almost inevitably, the S version also arrived in October of that year. In this case, the goal was not to enhance the car’s performance but to improve its overall quality, which had been neglected in the haste to start production. The production model of the Countach was codenamed LP 400 because its V12 – positioned longitudinally behind the cockpit – was increased to an ideal displacement of 4 litres (3929 cc). This model debuted at the 1973 Geneva Motor Show.",
+        "review":4.5,
+        "price":1000,
+        "client":22
+    },
+    {
+        "id":10, 
+        "name":"Tata G4 2019",
+        "img":"https://i.ibb.co/FJzxYhN/car7.jpg",
+        "overview": "The company continued to work at its regular pace. In 1972, the P250 Urraco, the 400 GT Jarama, the 400 GT Espada and the P400 Miura SV were in full production. That year, in an attempt to improve sales that were frankly quite disappointing until then, the Jarama hand a 365-hp engine and was dubbed the Jarama S. In 1972, the Urraco, which had experienced several initial slowdowns, was finally put into production. Almost inevitably, the S version also arrived in October of that year. In this case, the goal was not to enhance the car’s performance but to improve its overall quality, which had been neglected in the haste to start production. The production model of the Countach was codenamed LP 400 because its V12 – positioned longitudinally behind the cockpit – was increased to an ideal displacement of 4 litres (3929 cc). This model debuted at the 1973 Geneva Motor Show.",
+        "review":4.3,
+        "price":500,
+        "client":65
+    },
+    {
+        "id":11, 
+        "name":"Tyota H100 2020",
+        "img":"https://i.ibb.co/K0tWX13/car4.jpg",
+        "overview": "The company continued to work at its regular pace. In 1972, the P250 Urraco, the 400 GT Jarama, the 400 GT Espada and the P400 Miura SV were in full production. That year, in an attempt to improve sales that were frankly quite disappointing until then, the Jarama hand a 365-hp engine and was dubbed the Jarama S. In 1972, the Urraco, which had experienced several initial slowdowns, was finally put into production. Almost inevitably, the S version also arrived in October of that year. In this case, the goal was not to enhance the car’s performance but to improve its overall quality, which had been neglected in the haste to start production. The production model of the Countach was codenamed LP 400 because its V12 – positioned longitudinally behind the cockpit – was increased to an ideal displacement of 4 litres (3929 cc). This model debuted at the 1973 Geneva Motor Show.",
+        "review":4.5,
+        "price":1200,
+        "client":25
+    },
+    {
+        "id":12, 
+        "name":"Marcedes p40 2021",
+        "img":"https://i.ibb.co/GMpcNTt/car9.jpg",
+        "overview": "The company continued to work at its regular pace. In 1972, the P250 Urraco, the 400 GT Jarama, the 400 GT Espada and the P400 Miura SV were in full production. That year, in an attempt to improve sales that were frankly quite disappointing until then, the Jarama hand a 365-hp engine and was dubbed the Jarama S. In 1972, the Urraco, which had experienced several initial slowdowns, was finally put into production. Almost inevitably, the S version also arrived in October of that year. In this case, the goal was not to enhance the car’s performance but to improve its overall quality, which had been neglected in the haste to start production. The production model of the Countach was codenamed LP 400 because its V12 – positioned longitudinally behind the cockpit – was increased to an ideal displacement of 4 litres (3929 cc). This model debuted at the 1973 Geneva Motor Show.",
+        "review":4.5,
+        "price":1002,
+        "client":25
+    }
+]
